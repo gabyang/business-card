@@ -1,16 +1,16 @@
 {
-  "name": "kxrt",
+  "name": "gyyg",
   "version": "2.2.0",
-  "description": "Kartikeya's business card",
+  "description": "Gabriel's business card",
   "main": "./bin/card.js",
   "bin": {
-    "kxrt": "./bin/card.js"
+    "gyyg": "./bin/card.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Kartikeya",
+  "author": "Gabriel",
   "license": "MIT",
   "dependencies": {
     "boxen": "^5.0.0",

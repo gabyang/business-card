@@ -14,18 +14,18 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('Kartikeya'),
-  handle: chalk.cyan('@kxrt'),
+  name: chalk.white('Gabriel Yang Yao Guang'),
+  handle: chalk.cyan('@gyyg'),
   labelWork: chalk.white.bold('Profession:'),
   work: chalk.white('Student, National University of Singapore'),
   labelGitHub: chalk.white.bold('    GitHub:'),
-  github: chalk.cyan('https://github.com/kxrt'),
+  github: chalk.cyan('https://github.com/gabyang'),
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
-  linkedin: chalk.cyan('https://linkedin.com/in/kvrtikeya'),
+  linkedin: chalk.cyan('https://linkedin.com/in/gabrielyangyaoguang'),
   labelWeb: chalk.white.bold('   Website:'),
-  web: chalk.cyan('https://kxrt.github.io'),
+  web: chalk.cyan('incoming'),
   labelCard: chalk.white.bold('      Card:'),
-  npx: chalk.white('npx kxrt'),
+  npx: chalk.white('npx gyyg'),
 }
 
 // Actual strings we're going to output
